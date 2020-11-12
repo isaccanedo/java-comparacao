@@ -2,8 +2,8 @@
 :star: Exemplo simples de comparação em Java
 
 # Saída do console
-true
-true
-false
+true<br>
+true<br>
+false<br>
 false
 
