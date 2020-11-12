@@ -19,6 +19,7 @@ public class Comparison {
         Comparison
                 a = new Comparison(1, 2, 3),
                 b = new Comparison(1, 2, 3);
+        
         // Executa as comparações
         System.out.println(a == a);
         System.out.println(b == b);
